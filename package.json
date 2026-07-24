@@ -1,0 +1,15 @@
+{
+  "name": "kosis-mcp-dankkumi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KOSIS(통계청) Open API를 Claude에서 사용할 수 있게 해주는 MCP 서버",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.2.0",
+    "typescript": "^5.4.5"
+  }
+}
